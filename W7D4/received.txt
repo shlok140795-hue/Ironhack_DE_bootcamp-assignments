@@ -1,0 +1,5 @@
+Kafka moves messages between programs.
+Each line of this file is one message.
+Producers write to topics.
+Consumers read from topics.
+This is the last line.
