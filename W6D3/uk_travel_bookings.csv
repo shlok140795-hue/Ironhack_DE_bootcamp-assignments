@@ -1,0 +1,31 @@
+booking_id,booking_date,customer_id,customer_name,home_city,destination_city,destination_country,package_type,travel_start_date,nights,travellers,price_per_person_gbp,discount_pct,payment_mode,status,rating
+2001,2026-01-08,U001,Oliver Smith,London,Barcelona,Spain,City Break,2026-03-12,3,2,320,5,Credit Card,Completed,5
+2002,2026-01-14,U002,Amelia Jones,Manchester,Faro,Portugal,Beach Holiday,2026-05-20,7,4,450,10,Debit Card,Completed,4
+2003,2026-01-22,U003,Harry Williams,Birmingham,Rome,Italy,City Break,2026-04-02,4,2,410,,Credit Card,Completed,5
+2004,2026-02-03,U004,Isla Taylor,Edinburgh,Reykjavik,Iceland,Adventure,2026-03-28,5,2,890,10,Credit Card,Completed,5
+2005,2026-02-09,U005,Jack Brown,Leeds,Palma,Spain,Beach Holiday,2026-06-10,7,3,520,0,Debit Card,Completed,3
+2006,2026-02-15,U001,Oliver Smith,London,Paris,France,City Break,2026-04-18,2,2,280,5,Credit Card,Completed,4
+2007,2026-02-21,U006,Sophie Davies,Cardiff,Santorini,Greece,Beach Holiday,2026-07-05,7,2,780,15,Credit Card,Completed,5
+2008,2026-03-02,U007,George Evans,Bristol,Prague,Czech Republic,City Break,2026-05-08,3,4,290,,Bank Transfer,Cancelled,
+2009,2026-03-10,U008,Poppy Wilson,Glasgow,Tenerife,Spain,Beach Holiday,2026-06-24,7,2,610,10,Debit Card,Completed,4
+2010,2026-03-17,U009,Noah Thomas,London,Tokyo,Japan,Adventure,2026-09-14,10,2,1850,5,Credit Card,Completed,5
+2011,2026-03-25,U002,Amelia Jones,Manchester,Amsterdam,Netherlands,City Break,2026-05-30,3,2,300,0,Debit Card,Completed,4
+2012,2026-04-03,U010,Freya Roberts,Liverpool,Dubrovnik,Croatia,Beach Holiday,2026-07-18,7,4,560,10,Credit Card,Completed,4
+2013,2026-04-11,U003,Harry Williams,Birmingham,Lisbon,Portugal,City Break,2026-06-06,4,2,370,,Credit Card,Completed,5
+2014,2026-04-19,U011,Leo Johnson,Newcastle,Marrakech,Morocco,Adventure,2026-10-03,5,2,640,5,Bank Transfer,Completed,3
+2015,2026-04-27,U004,Isla Taylor,Edinburgh,Nice,France,Beach Holiday,2026-08-12,7,2,720,10,Credit Card,Completed,5
+2016,2026-05-05,U012,Grace Walker,London,Bali,Indonesia,Adventure,2026-11-22,12,2,2100,0,Credit Card,Upcoming,
+2017,2026-05-13,U013,Freddie White,Sheffield,Malaga,Spain,Beach Holiday,2026-07-26,7,5,480,10,Debit Card,Completed,4
+2018,2026-05-21,U005,Jack Brown,Leeds,Berlin,Germany,City Break,2026-09-04,3,2,310,5,Debit Card,Completed,4
+2019,2026-05-29,U014,Lily Hughes,Manchester,Crete,Greece,Beach Holiday,2026-08-22,10,4,690,15,Credit Card,Completed,5
+2020,2026-06-06,U006,Sophie Davies,Cardiff,Vienna,Austria,City Break,2026-10-16,3,2,340,,Credit Card,Completed,4
+2021,2026-06-14,U015,Arthur Green,London,Cancun,Mexico,Beach Holiday,2026-12-10,10,2,1450,5,Credit Card,Upcoming,
+2022,2026-06-22,U007,George Evans,Bristol,Valencia,Spain,City Break,2026-08-28,4,2,350,0,Bank Transfer,Cancelled,
+2023,2026-07-01,U016,Ivy Clarke,Belfast,Lapland,Finland,Adventure,2026-12-18,4,4,1250,10,Credit Card,Upcoming,
+2024,2026-07-09,U009,Noah Thomas,London,New York,USA,City Break,2026-10-23,5,2,1100,5,Credit Card,Completed,4
+2025,2026-07-17,U017,Theo Lewis,Glasgow,Rhodes,Greece,Beach Holiday,2026-09-19,7,3,640,10,Debit Card,Completed,3
+2026,2026-07-25,U010,Freya Roberts,Liverpool,Budapest,Hungary,City Break,2026-10-09,3,2,270,,Credit Card,Completed,5
+2027,2026-08-02,U018,Rosie Hall,Birmingham,Dubai,UAE,Beach Holiday,2026-12-27,7,2,1380,0,Credit Card,Upcoming,
+2028,2026-08-12,U011,Leo Johnson,Newcastle,Cairo,Egypt,Adventure,2026-11-14,6,2,820,5,Bank Transfer,Upcoming,
+2029,2026-08-20,U019,Max Allen,Leeds,Seville,Spain,City Break,2026-10-30,3,2,330,10,Debit Card,Completed,4
+2030,2026-09-01,U014,Lily Hughes,Manchester,Copenhagen,Denmark,City Break,2026-11-28,3,2,390,,Credit Card,Upcoming,
