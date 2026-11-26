@@ -1,0 +1,13 @@
+# dbt generated files
+target/
+dbt_packages/
+logs/
+
+# Python
+__pycache__/
+*.pyc
+
+# Secrets and local configuration
+.env
+.env.*
+profiles.yml

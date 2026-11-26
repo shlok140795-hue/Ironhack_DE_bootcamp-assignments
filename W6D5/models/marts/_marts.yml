@@ -1,0 +1,20 @@
+version: 2
+
+
+models:
+  - name: fct_orders
+    columns:
+      - name: order_id
+        tests:
+          - unique
+          - not_null
+      - name: customer_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_customers')
+              field: customer_id
+      - name: net_amount
+        tests:
+          - dbt_utils.accepted_range:
+              min_value: 0
